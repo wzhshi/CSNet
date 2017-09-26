@@ -30,3 +30,5 @@ BibTex:
 Usage:
 
 set different samplingRate (0.1 to 0.5) to obtain the same results as we report in the ICME2017 paper.
+
+The release code has included the sampling subnetwork and the reconstruction subnetwork. It is very easy to  separate them for different purposes.
